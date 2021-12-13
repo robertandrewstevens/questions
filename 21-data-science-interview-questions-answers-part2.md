@@ -82,8 +82,9 @@ strongly related to Production of butter in Bangladesh (from 19891 to
 
 <http://nerdsonwallstreet.typepad.com/my_weblog/files/dataminejune_2000.pdf>
 
-<img src="snp-500-butter-bangladesh.jpg" style="width:100.0%" /> **S&P
-500 correlates to butter in Bangladesh**
+<img src="snp-500-butter-bangladesh.jpg" style="width:100.0%" />
+
+**S&P 500 correlates to butter in Bangladesh**
 
 See more interesting (and totally spurious) findings which you can
 discover yourself using tools such as “Google correlate”
